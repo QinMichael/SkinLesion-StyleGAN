@@ -34,12 +34,13 @@ Getting started
 
 ### Training
 #### Prepare your data
-* Create  `'./Datasets/' ` in the main directory and put your data in it. 
+* Create  `'./Datasets/'` in the main directory and put your data in it. 
 * You need to check the code files `data_loader.py` and `train.py` to set the right dataset path.
 
 #### Running
 * `SL_StyleGAN.py` is the model file, and you can start your training by running the `train.py`.
 * Create `'./SavedModels/'` in the main directory to save the models and you can restart with these model files.
+
 Example:
 ![ISIC_MEL](https://github.com/QinMichael/SkinLesion-StyleGAN/blob/main/Results/ISIC_mel.png)
 
