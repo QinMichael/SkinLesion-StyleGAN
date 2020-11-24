@@ -41,7 +41,7 @@ Getting started
 * `SL_StyleGAN.py` is the model file, and you can start your training by running the `train.py`.
 * Create a './SavedModels/' in the main directory to save the models and you can restart with these model files.
 
-![ISIC_MEL](https://github.com/QinMichael/SkinLesion-StyleGAN/blob/main/Results/SL-StyleGAN_generated.jpg)
+![ISIC_MEL](https://github.com/QinMichael/SkinLesion-StyleGAN/blob/main/Results/ISIC_mel.png)
 
 Updates
 ------------------
