@@ -2,7 +2,7 @@ SkinLesion-StyleGAN
 ======================
 #### This is a GAN-based image synthesis method for skin lesions
 The skin lesion style-based GANs is proposed according to the basic architecture of **style-based GANs** ([[paper]](https://arxiv.org/abs/1812.04948)). The proposed model modifies the structure of style control and noise input in the original generator, adjusts both the generator and discriminator to efficiently synthesize high-quality skin lesion images. The code is derived from the article [**A GAN-based image synthesis method for skin lesion classification**](https://doi.org/10.1016/j.cmpb.2020.105568) (Qin et al., 2020).
-![ISIC_MEL](https://github.com/QinMichael/SkinLesion-StyleGAN/Results/ISIC_mel.png)
+![ISIC_MEL](https://github.com/QinMichael/SkinLesion-StyleGAN/blob/main/Results/ISIC_mel.png)
 
 Updates
 ------------------
